@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Build dosyaları
+build/
+dist/
+*.spec
+
+# Log / geçici
+*.log
+*.tmp
+*.txt
+
+# IDE / Sistem
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Araçlar
+ffmpeg/
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+
+# Kullanıcı ayarları
+cookies.txt
