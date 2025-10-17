@@ -5,7 +5,7 @@ __pycache__/
 
 # Build dosyaları
 build/
-dist/
+
 *.spec
 
 # Log / geçici
