@@ -1,4 +1,5 @@
-
+ MediaIndir'i ZIP olarak İndirmek için tıklayınız:
+[📥 ZIP İndir](https://github.com/sahinerol3534/mediaIndir/archive/refs/heads/main.zip)<br>
 <body>
     <div class="container">
         <h1>🔬 MediaIndirici AUDIO/VIDEO - Araştırma ve Test Programı Kullanım Anlaşması</h1>
